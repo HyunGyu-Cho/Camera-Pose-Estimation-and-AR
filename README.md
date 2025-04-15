@@ -31,9 +31,3 @@
 - 체스보드 위에 박스가 렌더링됨
 - 화면 왼쪽 상단에 카메라 위치 `XYZ: [x, y, z]` 표시됨
 
----
-
-## ▶ 실행 방법
-
-```bash
-python pose_estimation_ar_video.py
